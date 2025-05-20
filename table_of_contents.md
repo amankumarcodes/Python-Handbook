@@ -1,0 +1,15 @@
+# Table of Contents
+
+- [Preface](#preface)
+- [Chapter 1: Introduction to Python Programming](#chapter-1-introduction-to-python-programming)
+- [Chapter 2: Variables, Data Types, and Operators](#chapter-2-variables-data-types-and-operators)
+- [Chapter 3: Control Flow (Conditionals)](#chapter-3-control-flow-conditionals)
+- [Chapter 4: Loops and Iterations](#chapter-4-loops-and-iterations)
+- [Chapter 5: Functions and Modules](#chapter-5-functions-and-modules)
+- [Chapter 6: Data Structures (Lists, Tuples, Dictionaries)](#chapter-6-data-structures-lists-tuples-dictionaries)
+- [Chapter 7: File Handling](#chapter-7-file-handling)
+- [Chapter 8: Error Handling](#chapter-8-error-handling)
+- [Chapter 9: Object-Oriented Programming](#chapter-9-object-oriented-programming)
+- [Chapter 10: Advanced Topics](#chapter-10-advanced-topics)
+- [Mini-Projects](#mini-projects)
+- [Glossary of Python Terms](#glossary-of-python-terms)
